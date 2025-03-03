@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\EmailService.cs",
+              "RelativeDocumentMoniker": "SRP\\EmailService.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\EmailService.cs",
+              "RelativeToolTip": "SRP\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:52:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\UserService.cs",
+              "RelativeDocumentMoniker": "SRP\\UserService.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\UserService.cs",
+              "RelativeToolTip": "SRP\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:46:44.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Readme.md",
+              "RelativeDocumentMoniker": "SRP\\Readme.md",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Readme.md",
+              "RelativeToolTip": "SRP\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-03T08:45:24.028Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "SRP\\Program.cs",
               "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Program.cs",
               "RelativeToolTip": "SRP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T11:21:31.033Z",
               "EditorCaption": ""
