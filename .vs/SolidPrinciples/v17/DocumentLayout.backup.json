@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\CSharpLearning\\SolidPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|d:\\csharplearning\\solidprinciples\\srp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{767963EA-1A86-4484-8BF3-E234F01C5662}|SRP\\SRP.csproj|solutionrelative:srp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\shapelsp\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\shapelsp\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\EmailService.cs",
-              "RelativeDocumentMoniker": "SRP\\EmailService.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\EmailService.cs*",
-              "RelativeToolTip": "SRP\\EmailService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\ShapeLSP\\IShape.cs",
+              "RelativeDocumentMoniker": "LSP\\ShapeLSP\\IShape.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\ShapeLSP\\IShape.cs",
+              "RelativeToolTip": "LSP\\ShapeLSP\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:52:57.439Z",
+              "WhenOpened": "2025-03-04T12:54:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Square.cs",
+              "RelativeDocumentMoniker": "LSP\\Square.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Square.cs",
+              "RelativeToolTip": "LSP\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:20:01.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\UserService.cs",
-              "RelativeDocumentMoniker": "SRP\\UserService.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\UserService.cs",
-              "RelativeToolTip": "SRP\\UserService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAA7AAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LSP\\Rectangle.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Rectangle.cs",
+              "RelativeToolTip": "LSP\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:46:44.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Readme.md",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Readme.md",
-              "RelativeDocumentMoniker": "SRP\\Readme.md",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Readme.md",
-              "RelativeToolTip": "SRP\\Readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-03T08:45:24.028Z",
+              "WhenOpened": "2025-03-04T10:02:40.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Program.cs",
-              "RelativeDocumentMoniker": "SRP\\Program.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\SRP\\Program.cs",
-              "RelativeToolTip": "SRP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "LSP\\Program.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Program.cs",
+              "RelativeToolTip": "LSP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:21:31.033Z",
+              "WhenOpened": "2025-03-04T09:56:21.544Z",
               "EditorCaption": ""
             }
           ]
