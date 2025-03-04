@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\CSharpLearning\\SolidPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\printerisp\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\printerisp\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\printerisp\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\printerisp\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|d:\\csharplearning\\solidprinciples\\lsp\\shapelsp\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5143E426-55CA-484D-864A-8BF8B4C13952}|LSP\\LSP.csproj|solutionrelative:lsp\\shapelsp\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\printerisp\\advancedprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\printerisp\\advancedprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\printerisp\\basicprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\printerisp\\basicprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\printerisp\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\printerisp\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|d:\\csharplearning\\solidprinciples\\isp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3C8FB9F5-1F99-4049-8B7D-BA3A831F78FF}|ISP\\ISP.csproj|solutionrelative:isp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\ShapeLSP\\IShape.cs",
-              "RelativeDocumentMoniker": "LSP\\ShapeLSP\\IShape.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\ShapeLSP\\IShape.cs",
-              "RelativeToolTip": "LSP\\ShapeLSP\\IShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:54:46.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Square.cs",
-              "RelativeDocumentMoniker": "LSP\\Square.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Square.cs",
-              "RelativeToolTip": "LSP\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IFax.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IFax.cs",
+              "RelativeDocumentMoniker": "ISP\\PrinterISP\\IFax.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IFax.cs",
+              "RelativeToolTip": "ISP\\PrinterISP\\IFax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:20:01.042Z",
+              "WhenOpened": "2025-03-04T13:37:43.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Rectangle.cs",
-              "RelativeDocumentMoniker": "LSP\\Rectangle.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Rectangle.cs",
-              "RelativeToolTip": "LSP\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IScanner.cs",
+              "RelativeDocumentMoniker": "ISP\\PrinterISP\\IScanner.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IScanner.cs",
+              "RelativeToolTip": "ISP\\PrinterISP\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:02:40.356Z",
+              "WhenOpened": "2025-03-04T13:37:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvancedPrinter.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\AdvancedPrinter.cs",
+              "RelativeDocumentMoniker": "ISP\\PrinterISP\\AdvancedPrinter.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\AdvancedPrinter.cs",
+              "RelativeToolTip": "ISP\\PrinterISP\\AdvancedPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:33:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicPrinter.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\BasicPrinter.cs",
+              "RelativeDocumentMoniker": "ISP\\PrinterISP\\BasicPrinter.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\BasicPrinter.cs",
+              "RelativeToolTip": "ISP\\PrinterISP\\BasicPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:33:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IPrinter.cs",
+              "RelativeDocumentMoniker": "ISP\\PrinterISP\\IPrinter.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\PrinterISP\\IPrinter.cs",
+              "RelativeToolTip": "ISP\\PrinterISP\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:27:52.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Program.cs",
-              "RelativeDocumentMoniker": "LSP\\Program.cs",
-              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\LSP\\Program.cs",
-              "RelativeToolTip": "LSP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\Program.cs",
+              "RelativeDocumentMoniker": "ISP\\Program.cs",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\Program.cs",
+              "RelativeToolTip": "ISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T09:56:21.544Z",
+              "WhenOpened": "2025-03-04T13:19:33.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\Readme.md",
+              "RelativeDocumentMoniker": "ISP\\Readme.md",
+              "ToolTip": "D:\\CSharpLearning\\SolidPrinciples\\ISP\\Readme.md",
+              "RelativeToolTip": "ISP\\Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-04T13:20:08.04Z",
               "EditorCaption": ""
             }
           ]
